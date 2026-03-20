@@ -1,5 +1,3 @@
-from unittest import result
-
 from fastapi import FastAPI
 from uvicorn import run
 
